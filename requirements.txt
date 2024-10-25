@@ -1,0 +1,6 @@
+Python 3.11.0
+Tkinter
+Sqlite3
+
+
+cheers
